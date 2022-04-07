@@ -20,6 +20,20 @@ I run the motif search on the input image and plot the coordinates found by the 
 
 ![image](https://user-images.githubusercontent.com/66165922/159824039-9ea95671-add8-4a31-b4b8-7584988b9c71.png)
 
+### Requirements 
+```
+'numpy',
+'matplotlib.pyplot',
+'cv2',
+'time',
+'stumpy',
+'types'
+ ```
+ 
+### Running the code  
 
+All the code in in the `bug.ipynb` notebook.
 
-View code on [NBviewer](https://nbviewer.org/github/vineetver/Object-Detection-Without-OpenCV/blob/main/bug.ipynb)
+### View the code
+
+[NBviewer](https://nbviewer.org/github/vineetver/Object-Detection-Without-OpenCV/blob/main/bug.ipynb)
