@@ -44,7 +44,7 @@ List of all the libraries you need to run the code.
   $ jupyter notebook
   ```
 
-### View the code
+### View code
 
 [NBviewer](https://nbviewer.org/github/vineetver/Object-Detection-Without-OpenCV/blob/main/bug.ipynb)
 
