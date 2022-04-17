@@ -1,4 +1,4 @@
-## About The Project
+## About
 
 This notebook demonstrates multidimensional motif search in python.
 
